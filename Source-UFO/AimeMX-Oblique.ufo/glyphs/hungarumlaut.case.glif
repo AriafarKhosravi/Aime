@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut.case" format="2">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="157.028" y="971" type="line"/>
+      <point x="172.028" y="971"/>
+      <point x="181.767" y="959"/>
+      <point x="180.19" y="944" type="curve"/>
+      <point x="173.301" y="907" type="line"/>
+      <point x="133.527" y="814" type="line"/>
+      <point x="130.686" y="806"/>
+      <point x="123.16" y="801"/>
+      <point x="115.16" y="801" type="curve" smooth="yes"/>
+      <point x="105.16" y="801"/>
+      <point x="98.3165" y="812"/>
+      <point x="100.368" y="822" type="curve"/>
+      <point x="126.301" y="907" type="line"/>
+      <point x="128.19" y="944" type="line"/>
+      <point x="128.213" y="944.586"/>
+      <point x="128.255" y="945.167"/>
+      <point x="128.315" y="945.743" type="curve"/>
+      <point x="129.805" y="959.919"/>
+      <point x="142.614" y="971"/>
+      <point x="157.028" y="971" type="curve"/>
+    </contour>
+    <contour>
+      <point x="261.028" y="971" type="line"/>
+      <point x="275.394" y="971"/>
+      <point x="284.934" y="959.993"/>
+      <point x="283.452" y="945.885" type="curve"/>
+      <point x="283.386" y="945.263"/>
+      <point x="283.299" y="944.634"/>
+      <point x="283.19" y="944" type="curve"/>
+      <point x="277.301" y="907" type="line"/>
+      <point x="237.527" y="814" type="line"/>
+      <point x="233.686" y="806"/>
+      <point x="227.16" y="801"/>
+      <point x="219.16" y="801" type="curve" smooth="yes"/>
+      <point x="208.16" y="801"/>
+      <point x="201.317" y="812"/>
+      <point x="204.368" y="822" type="curve" smooth="yes"/>
+      <point x="230.301" y="907" type="line"/>
+      <point x="231.19" y="944" type="line"/>
+      <point x="232.767" y="959"/>
+      <point x="246.028" y="971"/>
+      <point x="261.028" y="971" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="2">
+  <advance width="281"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <contour>
+      <point x="50.3742" y="0" type="line"/>
+      <point x="109.338" y="561" type="line"/>
+      <point x="185.338" y="561" type="line"/>
+      <point x="126.374" y="0" type="line"/>
+      <point x="50.3742" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="134.626" y="735" type="line"/>
+      <point x="196.626" y="735" type="line"/>
+      <point x="237.533" y="658" type="line"/>
+      <point x="206.326" y="637" type="line"/>
+      <point x="161.737" y="698" type="line"/>
+      <point x="104.326" y="637" type="line"/>
+      <point x="77.5328" y="658" type="line"/>
+    </contour>
+  </outline>
+</glyph>

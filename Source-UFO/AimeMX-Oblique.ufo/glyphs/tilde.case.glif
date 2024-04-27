@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.case" format="2">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="96.306" y="832" type="line"/>
+      <point x="75.4141" y="814" type="line"/>
+      <point x="65.5702" y="825" type="line"/>
+      <point x="85.5672" y="844" type="line"/>
+      <point x="106.459" y="862"/>
+      <point x="132.51" y="872"/>
+      <point x="157.51" y="872" type="curve" smooth="yes"/>
+      <point x="167.51" y="872"/>
+      <point x="176.405" y="871"/>
+      <point x="186.09" y="868" type="curve" smooth="yes"/>
+      <point x="247.093" y="849" type="line"/>
+      <point x="251.177" y="847.88"/>
+      <point x="255.318" y="847.308"/>
+      <point x="259.432" y="847.308" type="curve" smooth="yes"/>
+      <point x="270.004" y="847.308"/>
+      <point x="280.393" y="851.081"/>
+      <point x="289.144" y="859" type="curve" smooth="yes"/>
+      <point x="310.141" y="878" type="line"/>
+      <point x="319.88" y="866" type="line"/>
+      <point x="299.883" y="847" type="line"/>
+      <point x="278.991" y="829"/>
+      <point x="252.94" y="819"/>
+      <point x="227.94" y="819" type="curve" smooth="yes"/>
+      <point x="217.94" y="819"/>
+      <point x="209.045" y="820"/>
+      <point x="199.36" y="823" type="curve" smooth="yes"/>
+      <point x="138.357" y="842" type="line"/>
+      <point x="134.462" y="843"/>
+      <point x="129.567" y="844"/>
+      <point x="125.567" y="844" type="curve" smooth="yes"/>
+      <point x="114.567" y="844"/>
+      <point x="104.147" y="840"/>
+      <point x="96.306" y="832" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Amacron" format="2">
+  <advance width="603"/>
+  <unicode hex="0100"/>
+  <outline>
+    <contour>
+      <point x="208.096" y="815" type="line"/>
+      <point x="211.564" y="848" type="line"/>
+      <point x="480.564" y="848" type="line"/>
+      <point x="477.096" y="815" type="line"/>
+      <point x="208.096" y="815" type="line"/>
+    </contour>
+    <contour>
+      <point x="342.793" y="736" type="line"/>
+      <point x="551.436" y="0" type="line"/>
+      <point x="475.436" y="0" type="line"/>
+      <point x="374.273" y="360" type="line"/>
+      <point x="211.706" y="288"/>
+      <point x="77.2525" y="160"/>
+      <point x="-1.5642" y="0" type="curve"/>
+      <point x="-36.5642" y="0" type="line"/>
+      <point x="321.912" y="728.225" type="line"/>
+      <point x="342.793" y="736" type="line"/>
+    </contour>
+    <contour>
+      <point x="302.075" y="615" type="line"/>
+      <point x="97.4567" y="200" type="line"/>
+      <point x="172.075" y="282"/>
+      <point x="263.907" y="347"/>
+      <point x="365.532" y="391" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

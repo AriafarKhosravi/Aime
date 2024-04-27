@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs_t" format="2">
+  <advance width="475"/>
+  <unicode hex="FB05"/>
+  <outline>
+    <contour>
+      <point x="465.603" y="561" type="line"/>
+      <point x="462.135" y="528" type="line"/>
+      <point x="388.135" y="528" type="line"/>
+      <point x="343.045" y="99" type="line"/>
+      <point x="306.108" y="33" type="line"/>
+      <point x="407.108" y="33" type="line"/>
+      <point x="403.64" y="0" type="line"/>
+      <point x="256.64" y="0" type="line"/>
+      <point x="312.135" y="528" type="line"/>
+      <point x="188.135" y="528" type="line" smooth="yes"/>
+      <point x="160.135" y="528"/>
+      <point x="134.718" y="505"/>
+      <point x="131.775" y="477" type="curve" smooth="yes"/>
+      <point x="81.64" y="0" type="line"/>
+      <point x="7.63997" y="0" type="line"/>
+      <point x="54.8318" y="449" type="line" smooth="yes"/>
+      <point x="61.3482" y="511"/>
+      <point x="116.603" y="561"/>
+      <point x="177.603" y="561" type="curve" smooth="yes"/>
+      <point x="315.603" y="561" type="line"/>
+      <point x="333.892" y="735" type="line"/>
+      <point x="413.36" y="768" type="line"/>
+      <point x="391.603" y="561" type="line"/>
+      <point x="465.603" y="561" type="line"/>
+    </contour>
+  </outline>
+</glyph>
